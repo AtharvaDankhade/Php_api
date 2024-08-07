@@ -1,0 +1,17 @@
+{
+    "name": "hp/endopoints",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Endopoints\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Atharva",
+            "email": "atharvadankhade09@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
